@@ -1,5 +1,5 @@
 ```mermaid
 graph TD;
-BUILD-->soulution_build;
+(메뉴)BUILD-->soulution_build;
 DEBERG-->start_with_deburgging;
 ```
