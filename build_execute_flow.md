@@ -1,6 +1,7 @@
 #주석
 ```mermaid
 graph TD;
-BUILD--> soulution_build;
+A[BUILD]--> B[soulution_build];
+B --> COMPLETE!;
 DEBERG-->start_with_deburgging;
 ```
