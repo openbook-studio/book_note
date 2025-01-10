@@ -3,7 +3,11 @@
 graph TD;
 A[BUILD]-->B[soulution_build];
 B --> COMPLETE!;
+```
 
+```mermaid
 graph TD;
-DEBERG-->start_with_deburgging;
+A[DEBERG]-->B[start_with_deburgging];
+B --> COMPLETE!;
+
 ```
