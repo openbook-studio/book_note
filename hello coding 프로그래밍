@@ -24,6 +24,13 @@ graph TD;
     C-->D;
 ```
 
+flowchart TD
+A[Start] --> B{Decision?}
+B -->|Yes| C[Action 1]
+B -->|No| D[Action 2]
+C --> E[End]
+D --> E[End]
+
 chapter 2 특수문자나 혹은 문법에서 쓰이는 문자들을 쓰려면 '\'(역슬래시)를 사용하면 된다.
 chapter 3 상수
 상수: 변하지 않는 것(명사)
