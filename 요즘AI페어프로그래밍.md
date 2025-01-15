@@ -60,3 +60,17 @@ AI 페어 프로그램 도구로 깃허브 코파일럿과 쳇 GPT, 클로드를
 
 ##### 포함되어야 할 내용
 프로젝트 제목 및 한 줄 소개, 시작하기, 사용법, 설치 방법, 기여하기, 라이선스, 저자 및 감사의 글
+
+"@workspace README.md 파일을 만들어주세요. 요구사항은 다음과 같습니다. markdown 형식으로 써주세요. 
+README.md 파일은 프로젝트의 첫 번째 '얼굴'로서, 프로젝트의 소개, 사용방법, 설치 과정, 문서, 라이선스 정보 등을 포함하여 프로젝트에 대한 중요한 정보를 제공합니다. 
+README.md에 포함되어야 할 내용
+- 프로젝트 제목 및 한 줄 소개
+- 시작하기(Getting started)
+- 사용법(Usage)
+- 설치방법(Installation)
+- 기여하기(Contributing)
+- 라이선스(License)
+- 저자 및 감사의 글(Authors & Acknowledgements)
+- 변경 로그(Changelog) //p.182까지
+
+
